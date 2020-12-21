@@ -1,6 +1,4 @@
-Hi, I'm Edward Hsu. Backend Developer.
-
-I mainly use .NET Core and Angular in system develop.
+Hi, I'm Edward Hsu. a Backend Developer. mainly use .NET Core and Angular in development.
 
 My hobby is watching movies and playing games.
 
